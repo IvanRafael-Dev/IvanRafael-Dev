@@ -12,7 +12,8 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da
 **O que estou estudando:**
 - 👨‍🎓 Estou estudando front-end com **React**, que é uma *biblioteca JavaScript* de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.;
 - 📖 Estou aprendendo a utilizar o **Redux** em conjunto com o **React** que é utilizada para ajudar no gerenciamento de *estado da aplicação*.;
-- 🆓 no meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸*bandolim*!;
+- 🔄 Comecei também a estudar o **Context API**, ferramenta *nativa* do **React** que possibilita passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
+- 🆓 no meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!;
 - 💌 se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com;
 - 📓 veja meu [Curriculo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.;
 
