@@ -9,7 +9,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=350 />
 
-**console.log(IvanRafael-Dev.frontend):**
+**console.log(IvanRafael-Dev.frontend)**
 {
 - 👨‍🎓: 'Desenvolvedor front-end júnior em **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais',
 - 📖: 'Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível',
@@ -17,7 +17,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da
 
 **console.log(IvanRafael-Dev.backend)**
 {
-- 🪢: 'Estou desenvolvendo minhas habilidades em ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos',
+- 🤯: 'Estou desenvolvendo minhas habilidades em ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos',
 - 🔄: 'Em aplicações **Node.js** e **Express**, busco utilizar o *padrão arquitetural* muito famosos no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*',
 - 🔑: 'Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**',
 - 🆙: 'Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*,
@@ -45,6 +45,8 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50">](https://redux.js.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-2.svg" width="50" height="50">](https://nodejs.org/en/)
+[<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="50" height="50">](https://www.mongodb.com/pt-br)
+[<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="50" height="50">](https://www.mysqltutorial.org/)
 
 <br />
 
