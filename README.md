@@ -23,7 +23,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 - 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORM**.
 
 **FreeTime**
-- 🆓 No meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!.
+- 🕹️ No meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!.
 - 🎼 Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo).
 
 **Contato**
