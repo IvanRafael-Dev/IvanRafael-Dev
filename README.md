@@ -11,28 +11,28 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=350 />
 
 **Front-End**
-- 👨‍🎓: 'Desenvolvedor front-end júnior em **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais',
-- 📖: 'Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível',
+- 👨‍🎓 Desenvolvedor front-end júnior em **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
+- 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
 
 **Back-End**
-- 🤯: 'Estou desenvolvendo minhas habilidades em ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos',
-- 🔄: 'Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*',
-- 🔑: 'Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**',
-- 🆙: 'Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*,
-- 📑: 'Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤,
-- 🔲: 'No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORM**',
+- 🤯 Estou desenvolvendo minhas habilidades em ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos',
+- 🔄 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*'.
+- 🔑 Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**'.
+- 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
+- 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
+- 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORM**'.
 
 **FreeTime**
-- 🆓: 'No meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!',
-- 🎼: 'Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo)
+- 🆓 No meu tempo livre adoro jogar 🎮 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!'.
+- 🎼 Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo).
 
 **Contato**
-- 💌: se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com;
-- 📓: veja meu [Curriculo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.;
+- 💌  Se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com;
+- 📓  Veja meu [Currículo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.;
 
 <br />
 
-**Linguagens e Ferramentas:**
+**Linguagens e Ferramentas**
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">](https://www.w3schools.com/html/default.asp)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">](https://www.w3schools.com/css/default.asp)
