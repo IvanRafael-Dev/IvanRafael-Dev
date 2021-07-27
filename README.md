@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da **TRYBE**. </br>
+Olá, meu nome é **Ivan Rafael**, sou de São Paulo e aluno da *turma 9* da **TRYBE**. </br>
 Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ 🧑‍
 
 
@@ -27,8 +27,8 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 - 🎼: 'Sou fundador de um projeto de musica em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo)
 
 **Contato**
-- 💌 se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com;
-- 📓 veja meu [Curriculo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.;
+- 💌: se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com;
+- 📓: veja meu [Curriculo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.;
 
 <br />
 
@@ -50,6 +50,8 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrafael-dev&show_icons=true&theme=dracula)
+
+#made_with_love 🖤
 
 <!--
 **IvanRafael-Dev/IvanRafael-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
