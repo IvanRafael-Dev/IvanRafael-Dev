@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da **TRYBE**.
+Olá, meu nome é **Ivan Rafael**, sou de São Paulo e sou aluno da *turma 9* da **TRYBE**. </br>
 Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ 🧑‍
 
 
