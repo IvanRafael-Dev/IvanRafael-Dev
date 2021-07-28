@@ -8,13 +8,13 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/ivan-rafael/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)
 
-<br/>
 
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=480 />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 
+<br />
 
 **Front-End**
   <img align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" />  
@@ -71,7 +71,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 </br>
 
 <p align="center">
-  <img align="left" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3" alt=" Streak stats of IvanRafael-Dev" />
+  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3" alt=" Streak stats of IvanRafael-Dev" />
 </p>
 <br />
 <br />
