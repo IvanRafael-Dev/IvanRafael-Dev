@@ -7,7 +7,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 [<img src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67" width="50" height="50">](https://instagram.com/ivandolim)
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/ivan-rafael/)
 
-[<img src="https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=48Lp3A-SC8gAX9ci1ET&tn=-8Q_XopwbEkLzrLV&_nc_ht=scontent-ams4-1.xx&oh=b9b29aca3344b352bb20e8a089a56cbf&oe=6126BF5C" width="50" height="50"](https://www.betrybe.com)
+[<img src="https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=48Lp3A-SC8gAX9ci1ET&tn=-8Q_XopwbEkLzrLV&_nc_ht=scontent-ams4-1.xx&oh=b9b29aca3344b352bb20e8a089a56cbf&oe=6126BF5C" width="50" height="50" />](https://www.betrybe.com)
 
 <br/>
 
