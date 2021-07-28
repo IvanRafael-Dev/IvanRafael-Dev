@@ -27,7 +27,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 - 🎼 Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo).
 
 **Contato**
-- 💌  Se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com
+- 📬  Se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com
 - 📓  Veja meu [Currículo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.
 
 <br />
