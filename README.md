@@ -62,6 +62,9 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/express.png" width="60" height="60">](https://expressjs.com/pt-br/)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="60" height="60">](https://www.mongodb.com/pt-br)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="60" height="60">](https://www.mysqltutorial.org/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="60" height="60">](https://mochajs.org/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sinon.png" width="60" height="60">](https://sinonjs.org/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="60" height="60">](https://www.chaijs.com/)
 
 <br />
 
