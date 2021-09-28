@@ -33,7 +33,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 - 🔑 Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**.
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
-- 🧪 Foco em *testes unitários* e desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai** e **Sinon**.
+- 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai** e **Sinon**.
 - 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORM**.
 
 <br />
