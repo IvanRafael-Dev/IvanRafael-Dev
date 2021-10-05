@@ -28,13 +28,14 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 **Back-End**
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
 
-- 🤯 Estou desenvolvendo minhas habilidades em ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
-- 🔄 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*.
+- 🔙 Desenvolvedor back-end júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
+- 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*.
 - 🔑 Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**.
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
 - 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai** e **Sinon**.
 - 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORM**.
+- 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
 
 <br />
 
