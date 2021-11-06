@@ -34,7 +34,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
 - 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai** e **Sinon**.
-- 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORMs** como o *Sequelize*.
+- 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORMs** como o ***Sequelize***.
 - 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
 
 <br />
