@@ -66,6 +66,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="60" height="60">](https://www.mongodb.com/pt-br)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="60" height="60">](https://www.mysqltutorial.org/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sequelize.svg" width="60" height="60">](https://sequelize.org/master/)
 [<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/)
 [<img src="https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M-RfV58soRdBGcVkpSF%2F-M-RfWKxtjzRNqtHplVi%2F-M-RfWdecutzQ0EZemPw%2Ffrisbyjs.png?generation=1581029138563311&alt=media" width="80">](https://docs.frisbyjs.com/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="60" height="60">](https://mochajs.org/)
