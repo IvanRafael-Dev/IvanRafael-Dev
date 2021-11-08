@@ -55,6 +55,7 @@ Estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior!** 🖥️ �
 <br />
 <br />
 
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60">](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60">](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-2.svg" width="60" height="60">](https://nodejs.org/en/)
