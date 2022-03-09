@@ -29,11 +29,11 @@ Sou **Desenvolvedor Full-Stack Júnior!** 🖥️ 🧑‍
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
 
 - 🔙 Desenvolvedor back-end júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
-- 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisão de responsabilidades por camadas, como o *model*, *service* e *controller*.
+- 🥬 Em aplicações **Node.js** e **Express**, busco utilizar dois *padrões arquiteturais* muito famosos no mercado: o **MSC** e o **MVC**!, que utilizam divisões de responsabilidades por camadas, como o *model*, *service*, *view* e *controller*.
 - 🔑 Estou aprofundando meus conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**.
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
-- 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai** e **Sinon**.
+- 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Mocha**, **Chai**, **Sinon** e **Frisby**.
 - 🔲 No momento estou buscando conhecimentos nas *arquiteturas* **SOLID** e **ORMs** como o ***Sequelize*** e o ***Prisma***.
 - 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
 
