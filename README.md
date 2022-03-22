@@ -69,7 +69,7 @@ Olá, meu nome é ***Ivan Rafael***, sou de São Paulo, *Desenvolvedor Backend* 
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sequelize.svg" width="60" height="60">](https://sequelize.org/master/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/prisma-2.svg" width="100" height="60">](https://www.prisma.io/)
 [<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/)
-[<img src="https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M-RfV58soRdBGcVkpSF%2F-M-RfWKxtjzRNqtHplVi%2F-M-RfWdecutzQ0EZemPw%2Ffrisbyjs.png?generation=1581029138563311&alt=media" width="80" height="30">](https://docs.frisbyjs.com/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/frisby.png" width="80" height="40">](https://docs.frisbyjs.com/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="60" height="60">](https://mochajs.org/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sinon.png" width="60" height="60">](https://sinonjs.org/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="60" height="60">](https://www.chaijs.com/)
