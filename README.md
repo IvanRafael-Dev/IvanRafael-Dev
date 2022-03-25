@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é ***Ivan Rafael***, sou de São Paulo, *Desenvolvedor Backend* 🖥️ e *Pessoa Instrutora* na **TRYBE**. </br>
+Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* 🖥️ e *Pessoa Instrutora* na **TRYBE**. </br>
 
 
 [<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/IvanRafael-Dev)
