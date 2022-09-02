@@ -66,6 +66,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* �
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60">](https://redux.js.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="60" height="60">](https://www.mongodb.com/pt-br)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mongoose.png" width="60" height="60">](https://mongoosejs.com/)
 [<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="60" height="60">](https://www.mysqltutorial.org/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sequelize.svg" width="60" height="60">](https://sequelize.org/master/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/prisma-2.svg" width="100" height="60">](https://www.prisma.io/)
