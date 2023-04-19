@@ -58,7 +58,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* �
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60">](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60">](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-2.svg" width="60" height="60">](https://nodejs.org/en/)
+[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="70" height="70">](https://nodejs.org/en/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/express.png" width="60" height="60">](https://expressjs.com/pt-br/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60">](https://www.w3schools.com/html/default.asp)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60">](https://www.w3schools.com/css/default.asp)
