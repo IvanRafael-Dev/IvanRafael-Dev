@@ -64,7 +64,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* �
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrafael-dev&show_icons=true&theme=shades-of-purple&bg_color=white&title_color=3E6473&text_color=A98DD5)
