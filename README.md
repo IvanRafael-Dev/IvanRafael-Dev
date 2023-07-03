@@ -101,5 +101,4 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* �
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=IvanRafael-Dev" alt="IvanRafael-Dev" />
 </p>
-<p>
   #made_with_love 🖤
