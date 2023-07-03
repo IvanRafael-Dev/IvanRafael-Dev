@@ -70,17 +70,3 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Backend* �
 <p align="center">
   <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3" alt=" Streak stats of IvanRafael-Dev" />
 </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IvanRafael-Dev" alt="IvanRafael-Dev" />
-</p>
-  #made_with_love 🖤
