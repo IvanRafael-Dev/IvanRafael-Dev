@@ -36,6 +36,7 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Web* 🖥�
 **FreeTime**
 - 🧝‍♀️ Amo todo universo **Tolkien** e adoro jogar ***AD&D***  
 - 🕹️ No meu tempo livre adoro ler artigos relacionados à 🌠 **Astronomia** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!.
+ - E também 🎼 Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo).
 <br />
 
 **Contato**
