@@ -12,8 +12,12 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Web* 🖥�
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
-
 <br />
+
+**Front-End**
+  [<img align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" />](https://pt-br.reactjs.org/)
+- 🚅 Desenvolvedor front-end, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
+- 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
 
 **Back-End**
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
