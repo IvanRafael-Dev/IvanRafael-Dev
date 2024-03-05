@@ -21,12 +21,12 @@ Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Web* 🖥�
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
 
 - 🔙 Desenvolvedor back-end, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
-- 💚 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisões de responsabilidades por camadas, como o *model*, *service* e *controller*.
+- 💚 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **Clean Architecture**!.
 - 🔑 Tenho conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**.
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📜 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
-- 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Jest**, **Mocha**, **Chai**, **Sinon** e **Frisby**.
-- 🏚️ No momento estou buscando conhecimentos na *arquitetura* **SOLID** e em **ORMs** como o ***Sequelize***, ***Prisma*** e ***Mongoose***.
+- 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Jest**, **Mocha**, **Chai**, **Sinon**, **Frisby** e **RTL**.
+- 🏚️ No momento estou me aprofundando em princípios do **SOLID** e em **ORMs** como o ***Sequelize***, ***Prisma*** e ***Mongoose***.
 - 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
 
 <br />
