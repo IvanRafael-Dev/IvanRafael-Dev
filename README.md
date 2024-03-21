@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **Ivan Rafael**, sou de São Paulo, *Desenvolvedor Web* 🖥️ e *Pessoa Instrutora* na **Trybe**. </br>
+Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50">](https://www.linkedin.com/in/ivan-rafael/)
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/tryberLogo.jpg" width="50" height="50">](https://www.betrybe.com)
