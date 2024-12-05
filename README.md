@@ -71,7 +71,7 @@ Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=495)
 </br>
 
 <p align="center">
