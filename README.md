@@ -75,5 +75,5 @@ Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 </br>
 
 <p align="center">
-  <img align="left" width="495" src="[https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3](https://streak-stats.demolab.com/?user=ivanrafael-dev)" alt=" Streak stats of IvanRafael-Dev" />
+  <img align="left" width="495" src="https://streak-stats.demolab.com/?user=ivanrafael-dev" alt=" Streak stats of IvanRafael-Dev" />
 </p>
