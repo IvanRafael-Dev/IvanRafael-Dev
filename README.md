@@ -22,7 +22,7 @@ Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 
 - 🔙 Desenvolvedor back-end, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
 - 💚 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* **DDD** utilizando **Clean Architecture**!.
-- 🔑 Tenho conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**.
+- 🔑 Tenho conhecimentos em **JWT**, **Docker**, **AWS**, **RabbitMQ**...
 - 🆙 Comecei também a upar meus primeiros arquivos com o uso do **Multer**, um middleware *node.js* para manipulação *multipart/form-data*.
 - 📜 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**, e sim, tenho uma quedinha pelo **Mongodb** 🖤.
 - 🧪 Foco em *testes unitários* e *testes de integração* utilizando o desenvolvimento **TDD** utilizando as tecnologias **Jest**, **Mocha**, **Chai**, **Sinon**, **Frisby** e **RTL**.
