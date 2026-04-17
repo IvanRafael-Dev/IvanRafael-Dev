@@ -14,8 +14,8 @@ Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 
 **Front-End**
   [<img align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" />](https://pt-br.reactjs.org/)
-- 🚅 Desenvolvedor front-end, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
-- 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
+- 🚅 Desenvolvedor front-end, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram** e uma comunidade de desenvolvedores individuais e empresas.
+- 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam escrever componentes pequenos e testáveis.
 
 **Back-End**
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
@@ -47,27 +47,31 @@ Olá, meu nome é **Ivan Rafael**, sou *Desenvolvedor Web* 🖥️
 <br />
 <br />
 
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60">](https://www.javascript.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60">](https://www.typescriptlang.org/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="70" height="70">](https://nodejs.org/en/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/express.png" width="60" height="60">](https://expressjs.com/pt-br/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60">](https://www.w3schools.com/html/default.asp)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60">](https://www.w3schools.com/css/default.asp)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60">](https://pt-br.reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60">](https://redux.js.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60">](https://git-scm.com/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/docker.svg" width="60" height="60">](https://docker.com/)
-[<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="60" height="60">](https://www.mongodb.com/pt-br)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mongoose.png" width="60" height="60">](https://mongoosejs.com/)
-[<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="60" height="60">](https://www.mysqltutorial.org/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sequelize.svg" width="60" height="60">](https://sequelize.org/master/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/prisma-2.svg" width="100" height="60">](https://www.prisma.io/)
-[<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/frisby.png" width="80" height="40">](https://docs.frisbyjs.com/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="60" height="60">](https://mochajs.org/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sinon.png" width="60" height="60">](https://sinonjs.org/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="60" height="60">](https://www.chaijs.com/)
+<div align="center" style="border: 2px solid #2f81f7; padding: 18px; border-radius: 16px; background: rgba(56,139,253,0.10); display: inline-block;">
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap: 10px; max-width: 700px;">
+    <a href="https://www.linux.org/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="56" height="56" /></a>
+    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="56" height="56" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="56" height="56" /></a>
+    <a href="https://nodejs.org/en/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="56" height="56" /></a>
+    <a href="https://expressjs.com/pt-br/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/express.png" width="56" height="56" /></a>
+    <a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="56" height="56" /></a>
+    <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="56" height="56" /></a>
+    <a href="https://pt-br.reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="56" height="56" /></a>
+    <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="56" height="56" /></a>
+    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="56" height="56" /></a>
+    <a href="https://docker.com/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/docker.svg" width="56" height="56" /></a>
+    <a href="https://www.mongodb.com/pt-br"><img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" width="56" height="56" /></a>
+    <a href="https://mongoosejs.com/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mongoose.png" width="56" height="56" /></a>
+    <a href="https://www.mysqltutorial.org/"><img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" width="56" height="56" /></a>
+    <a href="https://sequelize.org/master/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sequelize.svg" width="56" height="56" /></a>
+    <a href="https://www.prisma.io/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/prisma-2.svg" width="92" height="56" /></a>
+    <a href="https://jestjs.io/pt-BR/"><img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="56" height="56" /></a>
+    <a href="https://docs.frisbyjs.com/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/frisby.png" width="92" height="46" /></a>
+    <a href="https://mochajs.org/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="56" height="56" /></a>
+    <a href="https://sinonjs.org/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sinon.png" width="56" height="56" /></a>
+    <a href="https://www.chaijs.com/"><img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="56" height="56" /></a>
+  </div>
+</div>
 
 <br />
 
